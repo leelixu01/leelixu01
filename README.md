@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 This is silly！
+- 🔭 I’m currently working for static analyze and compiler optimization at Tencent.
+- 🌱 I’m currently learning web backend development in Go.
+- 🎓 I’m currently pursuing my Master's degree in Software Engineering at the USTC.
 
-<!--
-**leelixu01/leelixu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## self-learning courses
+### Doing
+- operation system (MIT6.s081)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### TODO
+- distributed system (6.824)
+- computer network (cs144)
+- parallel computing (cs149)
+- compiler (cs143)
+
+### Done
+- CSAPP (CMU15-213)
+- NJU ICS PA, riscv five-stage pipeline CPU (一生一芯)
+- database system (CMU15-445)
