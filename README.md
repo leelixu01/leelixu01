@@ -6,10 +6,10 @@
 
 ## self-learning courses
 ### Doing
+- distributed system (MIT6.824)
 - operation system (MIT6.s081)
 
 ### TODO
-- distributed system (MIT6.824)
 - computer network (cs144)
 - parallel computing (cs149)
 - compiler (cs143)
